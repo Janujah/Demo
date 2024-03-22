@@ -110,7 +110,7 @@ h6 {
 }
 
 #header .social-links a {
-  font-size: 16px;
+  font-size: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -235,7 +235,7 @@ h6 {
 
 .navbar a i,
 .navbar a:focus i {
-  font-size: 12px;
+  font-size: 20px;
   line-height: 0;
   margin-left: 5px;
 }
@@ -272,7 +272,7 @@ h6 {
 */
 .mobile-nav-toggle {
   color: #fff;
-  font-size: 28px;
+  font-size: 30pxpx;
   cursor: pointer;
   display: none;
   line-height: 0;
