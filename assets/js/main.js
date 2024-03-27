@@ -249,4 +249,10 @@
    */
   new PureCounter();
 
-})()
+})();
+
+document.getElementById("myBtn").addEventListener("click", displayDate); 
+
+function displayDate() {
+  
+}
