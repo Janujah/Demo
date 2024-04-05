@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: transparent url("../img/Screenshot from 2024-03-26 20-03-55.png") top right no-repeat;
+  background: transparent url("../img/Cool wallpaper.jpeg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -249,7 +249,7 @@ h6 {
   height: 5px;
   bottom: -4px;
   left: 0;
-  background-color: black;
+  background-color: white;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -266,7 +266,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: black;
+  color: white;
 }
 
 /**
