@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: transparent url("../img/Cool wallpaper.jpeg") top right no-repeat;
+  background: transparent url(https://i.pinimg.com/564x/0b/a2/b3/0ba2b33528fa198d0bf573035f4c83da.jpg) top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
