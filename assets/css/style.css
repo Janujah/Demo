@@ -21,7 +21,7 @@ body::before {
   content: "";
   position: fixed;
   /* background: transparent url('https://w0.peakpx.com/wallpaper/217/172/HD-wallpaper-summer-fun-carnival-graphy-rides-summer-ferris-wheel-beauty-tropical.jpg') top right no-repeat; */
-  background: transparent url('445810868_1183923579659787_7987756990698143896_n(1).jpg') top right no-repeat;
+  background: transparent url('https://wallpapercave.com/wp/4oc5E2U.jpg') top right no-repeat;
   /* background: transparent url('https://e1.pxfuel.com/desktop-wallpaper/238/228/desktop-wallpaper-48-ferris-wheel-ferris-wheel.jpg') top right no-repeat; */
   background-size: cover;
   left: 0;
@@ -268,7 +268,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: white;
+  color: black;
 }
 
 /**
